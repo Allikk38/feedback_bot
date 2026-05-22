@@ -1,4 +1,4 @@
-# bot/config.py
+# config.py
 # Конфигурация бота и переменные окружения
 
 import os
@@ -23,7 +23,7 @@ BOT_VERSION = "1.0.0"
 BOT_AUTHOR = "Разработчик"
 
 # Ссылка на проект (если есть)
-BOT_REPO_URL = "https://github.com/example/bot"
+BOT_REPO_URL = "https://github.com/example/feedback_bot"
 
 # Проверка обязательных переменных
 if not BOT_TOKEN:
